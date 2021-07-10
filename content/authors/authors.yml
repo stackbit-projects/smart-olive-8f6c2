@@ -1,7 +1,7 @@
 - name: Emily
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+  bio: >-
+    Emily is a technologist and flarpin round regularly as various
+    never-do-wells and wizarfs. These are her tall tales.
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
